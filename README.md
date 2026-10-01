@@ -29,30 +29,12 @@
 
 ## 🧑‍💻 About Me
 
-```java
-public class Karunagaran extends SoftwareEngineer {
-
-    private final String role       = "Full-Stack Engineer";
-    private final String focus      = "Backend · Databases · AI Automation";
-    private final String[] stack    = {"Java", "Spring Boot", "PHP", "Laravel", "React", "Next.js", "Vue"};
-    private final String[] learning = {"Spring Boot (Advanced)", "DSA", "Agentic AI", "RAG Systems"};
-
-    public String impact() {
-        return "Cut AWS costs by ~80% · Improved SQL performance by ~20% · "
-             + "Delivered 6+ production projects · Trained 60+ students";
-    }
-
-    public String motto() {
-        return "Build it clean. Optimize it hard. Ship it fast.";
-    }
-}
-```
-
 - 🔭 **Currently building:** [FDRP Journals](https://fdrpjournals.org/) — full-stack SaaS for journal management & publishing
 - 🌱 **Currently learning:** **Spring Boot (Advanced)** & **Data Structures & Algorithms**
 - 🤝 **Open to collaborate on:** **Project Architecture**, **Backend Systems**, **Full-Stack SaaS**
 - 💬 **Ask me about:** `PHP Stack` · `Laravel` · `Vue.js` · `Core Java` · `SQL Optimization` · `REST APIs` · `Backend Technologies`
 - 📫 **Reach me at:** **karanvel.2005@gmail.com**
+- ⚡ **Motto:** *"Build it clean. Optimize it hard. Ship it fast."*
 
 ---
 
