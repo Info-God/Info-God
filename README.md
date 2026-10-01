@@ -14,23 +14,27 @@
   <a href="https://github.com/Info-God">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://leetcode.com/u/user3967UV/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
   <a href="https://www.hackerrank.com/profile/karanvel_2005">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Info-God&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-2E9EF7?style=flat-square" alt="Experience" />
   <img src="https://img.shields.io/badge/Location-Puducherry%2C%20India-2E9EF7?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Full--Time%20Roles-2EA44F?style=flat-square" alt="Open to work" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 **Currently building:** [FDRP Journals](https://fdrpjournals.org/) — full-stack SaaS for journal management & publishing
-- 🌱 **Currently learning:** **Spring Boot (Advanced)** & **Data Structures & Algorithms**
+- 🔭 **Currently building:** A **Journal Management SaaS** for a client — **Spring Boot + React**, covering submission, peer review, editorial workflow and publishing
+- 🌱 **Currently learning:** **Spring Boot (Advanced)** & **Data Structures & Algorithms** (practising on [LeetCode](https://leetcode.com/u/user3967UV/))
+- 💼 **Open to:** **Backend / Full-Stack Developer** roles (Java · Spring Boot · Laravel · React)
 - 🤝 **Open to collaborate on:** **Project Architecture**, **Backend Systems**, **Full-Stack SaaS**
 - 💬 **Ask me about:** `PHP Stack` · `Laravel` · `Vue.js` · `React` · `Next.js` · `Core Java` · `SQL Optimization` · `REST APIs` · `Backend Technologies`
 - 📫 **Reach me at:** **karanvel.2005@gmail.com**
@@ -160,11 +164,11 @@
   </tr>
 </table>
 
-### 🧪 Internal & R&D Projects
+### 🤖 Personal Project
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3>🤖 Agentic AI Incident Response Platform</h3>
       <i>2026</i><br/>
       AI-powered incident response with alert management, investigation workflows, evidence tracking & human-in-the-loop approval. Tool-calling RAG agent analyzes logs, deployments & runbooks.<br/><br/>
@@ -173,9 +177,16 @@
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+### 🏢 Company Projects
+
+<table>
+  <tr>
+    <td valign="top">
       <h3>🏛️ RBI HRMS System Modernisation</h3>
-      <i>2024</i><br/>
+      <i>Senchola Technology Solutions · 2024</i><br/>
       Migrated a <b>1 TB+ enterprise HRMS</b> from PHP 5 → PHP 8 while preserving production data. Optimized <b>15+ critical SQL queries</b> using views, indexing & restructuring — cutting execution time by <b>~20%</b>.<br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
@@ -208,14 +219,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Info-God&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Info-God&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Info-God&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
@@ -224,10 +227,6 @@
   <a href="https://linkedin.com/in/karunagaranvelmourougane">
     <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
   </a>
-</p>
-
-<p align="center">
-  <i>⚡ "Build it clean. Optimize it hard. Ship it fast."</i>
 </p>
 
 <p align="center">
