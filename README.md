@@ -32,7 +32,7 @@
 - 🔭 **Currently building:** [FDRP Journals](https://fdrpjournals.org/) — full-stack SaaS for journal management & publishing
 - 🌱 **Currently learning:** **Spring Boot (Advanced)** & **Data Structures & Algorithms**
 - 🤝 **Open to collaborate on:** **Project Architecture**, **Backend Systems**, **Full-Stack SaaS**
-- 💬 **Ask me about:** `PHP Stack` · `Laravel` · `Vue.js` · `Core Java` · `SQL Optimization` · `REST APIs` · `Backend Technologies`
+- 💬 **Ask me about:** `PHP Stack` · `Laravel` · `Vue.js` · `React` · `Next.js` · `Core Java` · `SQL Optimization` · `REST APIs` · `Backend Technologies`
 - 📫 **Reach me at:** **karanvel.2005@gmail.com**
 - ⚡ **Motto:** *"Build it clean. Optimize it hard. Ship it fast."*
 
@@ -50,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,fastapi" alt="Backend" />
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" alt="Pusher" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
 </p>
 
 ### Frontend
@@ -90,7 +92,7 @@
       <ul>
         <li>Managed <b>3 production projects</b> end-to-end (client comms → deployment → support)</li>
         <li>Cut AWS cost by <b>~80%</b> (₹10k → ₹2k/month) via VPS migration</li>
-        <li>Built full-stack SaaS with <b>Laravel, React.js, Vue.js</b></li>
+        <li>Built full-stack SaaS with <b>Laravel, React.js, Vue.js, Next.js</b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -110,6 +112,56 @@
 
 ## 🚀 Featured Projects
 
+### 🌐 Live Production Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📖 Journal Management & Editorial System</h3>
+      <a href="https://editorial.fdrpjournals.org/login?journal=1">editorial.fdrpjournals.org</a><br/>
+      <i>Laravel · React.js · MySQL · Redis</i><br/><br/>
+      Role-based editorial workflow platform powering <b>8 journals</b> — covering manuscript submission, peer review, editorial decisions, production, and publishing. Includes JWT auth, Redis caching, background queues, and real-time notifications.<br/><br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 IJIRE — Journal Web Platform</h3>
+      <a href="https://theijire.com">theijire.com</a><br/>
+      <i>React.js · REST APIs</i><br/><br/>
+      Public-facing journal website built with <b>React web pages</b>, serving as the digital front for the IJIRE journal. Features dynamic content, journal issues, article listings, author guidelines, and SEO-friendly routing — part of a <b>portfolio of 8 journal sites</b> delivered.<br/><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 MakeMyScholar — Social Network for Publishers & Authors</h3>
+      <a href="https://makemyscholarfrontend.fdrpjournals.org/">makemyscholarfrontend.fdrpjournals.org</a><br/>
+      <i>Laravel · React · Redis · Queues · Workers · Pusher · WebSockets</i><br/><br/>
+      A full-stack <b>social media platform</b> connecting publishers, authors, and researchers. Built with Laravel backend (Redis queues, background workers, Pusher sockets for real-time feeds & notifications) and React frontend. Supports posts, follows, messaging, and scholarly collaboration.<br/><br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" alt="Pusher" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 SciRank Analytics — Journal Ranking Platform</h3>
+      <a href="https://scirankanalytics.com/">scirankanalytics.com</a><br/>
+      <i>Next.js · SSR · SEO</i><br/><br/>
+      A <b>Next.js</b>-powered analytics platform delivering journal ranking metrics, citation analytics, and scholarly impact insights. Built with server-side rendering and SEO-optimized routing to maximize discoverability for researchers and institutions.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" alt="SEO" />
+    </td>
+  </tr>
+</table>
+
+### 🧪 Internal & R&D Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -122,20 +174,9 @@
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
     <td width="50%" valign="top">
-      <h3>📚 Journal Management & Publishing Platform</h3>
-      <i>2025 – 2026</i><br/>
-      Role-based platform for authors, editors, reviewers, staff & admins covering the full manuscript & publishing workflow. REST APIs, JWT auth, Redis caching & background queues.<br/><br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
       <h3>🏛️ RBI HRMS System Modernisation</h3>
       <i>2024</i><br/>
-      Migrated a <b>1 TB+ enterprise HRMS</b> from PHP 5 → PHP 8 while preserving production data. Optimized <b>15+ critical SQL queries</b> using views, indexing & restructuring — cutting execution time by <b>~20%</b> in key reporting modules.<br/><br/>
+      Migrated a <b>1 TB+ enterprise HRMS</b> from PHP 5 → PHP 8 while preserving production data. Optimized <b>15+ critical SQL queries</b> using views, indexing & restructuring — cutting execution time by <b>~20%</b>.<br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
